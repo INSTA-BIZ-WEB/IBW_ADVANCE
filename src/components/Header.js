@@ -100,7 +100,7 @@ const Header = () => {
                   </a>
                   <div className="widget">
                     <div className="logo">
-                      <a href="/"><img src="/assets/logo.png" alt="IBW Logo" /></a>
+                      <a href="/"><img src="/logo.png" alt="IBW Logo" /></a>
                     </div>
                   </div>
                   <div className="container">
